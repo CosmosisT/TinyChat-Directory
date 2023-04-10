@@ -1,1 +1,0 @@
-# TinyChat-Directory
