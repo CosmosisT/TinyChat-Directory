@@ -1,0 +1,11 @@
+{
+  "name": "tinychatdirectory",
+  "version": "1.0.0",
+  "description": "TinyChat Directory",
+  "main": "TinyChat-Directory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CosmosisT",
+  "license": "ISC"
+}
